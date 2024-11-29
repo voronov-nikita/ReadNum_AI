@@ -3,6 +3,8 @@
 # 
 # 
 
+from neural import Neural
+
 
 
 if __name__ == "__main__":
